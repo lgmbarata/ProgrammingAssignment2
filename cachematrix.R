@@ -1,5 +1,5 @@
-## Put comments here that give an overall description of what your
-## functions do
+## This library provides two functinos, one to create a cached matrix and
+## another to calculate its inverse.
 
 ## This function creates an object that caches a matrix and its inverse
 
